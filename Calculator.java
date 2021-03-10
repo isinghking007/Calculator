@@ -6,6 +6,7 @@ public class Calculator {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner in=new Scanner(System.in);
+		//It'll take only integer input ...try this calculator using integer input only
 		System.out.println("Enter the first number");
 		int n=in.nextInt();
 		System.out.println("Enter the second number");
